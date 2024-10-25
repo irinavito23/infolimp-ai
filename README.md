@@ -1,2 +1,2 @@
 # infolimp-ai
-Powered by AI LMS for infolimp.ru
+This service powered by AI for LMS on infolimp.ru
